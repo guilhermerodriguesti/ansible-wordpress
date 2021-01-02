@@ -1,4 +1,4 @@
-# ansible-wordpress
+# Ansible-Wordpress
 ## Architecture 
 
 ![Image](./assets/img/Arquitetura.png)
